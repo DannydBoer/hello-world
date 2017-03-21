@@ -1,6 +1,6 @@
 # hello-world
 First repository
-My name is D. de Hoer 
+My name is D. de Boer 
 I like to watch movies. Lots of movies 
 I am married en have 2 children, Daisy and Damiam
 My children are 19 and 15 years old.
