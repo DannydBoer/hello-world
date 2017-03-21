@@ -7,4 +7,4 @@ My children are 19 and 15 years old.
 I love watching soccer.
 I used to play soccer myself but I got injured.
 I would love to be a succesfull trainer
-This is th second test
+This is the second test
